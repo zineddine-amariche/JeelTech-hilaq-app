@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836754299043",
+    "firebase_url": "https://hilaqapp.firebaseio.com",
+    "project_id": "hilaqapp",
+    "storage_bucket": "hilaqapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836754299043:android:94dfc5857b6e41a9fe0716",
+        "android_client_info": {
+          "package_name": "com.hilaqapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836754299043-i4nkh7cgkb81puq27k9ojrershsl71gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hilaqapp",
+            "certificate_hash": "94499f27cd530404870dc7af26c1317cff7235a9"
+          }
+        },
+        {
+          "client_id": "836754299043-drf4tn62mbplg4n1qr9didkges4si5p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7iJTRq03eMjuvHiZrPyWYxoFmQBpWB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836754299043-drf4tn62mbplg4n1qr9didkges4si5p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
